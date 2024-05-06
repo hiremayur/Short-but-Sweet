@@ -1,1 +1,3 @@
-Hello this is mayur hire and my friend is Neeraj sali 
+Hello this is mayur hire and my friend is Neeraj sali . The Queue based movie theatre ticketing system simulator is designed to emulate operation of a movies theatre ticketing system.
+The system employs a queue data structure to efficiently manage customer requests for ticket purchases ,seat reservations and cancellation.
+The primary objectives of system is to provide a seamless and efficient ticketing experience for moviegoers.
